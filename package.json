@@ -1,6 +1,6 @@
 {
   "name": "release-please-example",
-  "version": "0.0.0",
+  "version": "1.0.1",
   "description": "This is the example repository for release-please",
   "main": "app.js",
   "scripts": {
