@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/daniosoriov/release-please-example/compare/v1.0.1...v1.0.2) (2023-12-19)
+
+
+### Bug Fixes
+
+* the release-please.yml workflow now has a better `run-name` ([634526b](https://github.com/daniosoriov/release-please-example/commit/634526bc01cd5fdf6d634b44d271bdc399ada167))
+
 ## [1.0.1](https://github.com/daniosoriov/release-please-example/compare/v1.0.0...v1.0.1) (2023-12-19)
 
 
