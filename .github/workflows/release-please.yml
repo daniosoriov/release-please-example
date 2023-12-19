@@ -5,7 +5,7 @@ run-name: ${{ github.actor }} released ${{ github.event.release.tag_name }}
 on:
   push:
     branches:
-      - main
+      - master
 
 permissions:
   contents: write
