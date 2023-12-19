@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/daniosoriov/release-please-example/compare/v1.0.0...v1.0.1) (2023-12-19)
+
+
+### Bug Fixes
+
+* the package.json version fixed to 1.0.1 ([1e148da](https://github.com/daniosoriov/release-please-example/commit/1e148da04574ec340563fc5e19744c411aef4e33))
+
 ## 1.0.0 (2023-12-19)
 
 
