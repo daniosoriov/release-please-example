@@ -1,5 +1,5 @@
 name: Release Please
-run-name: ${{ github.actor }} released ${{ github.event.release.tag_name }}
+run-name: new release by ${{ github.actor }}
 # Full documentation available at: https://github.com/google-github-actions/release-please-action
 
 on:
