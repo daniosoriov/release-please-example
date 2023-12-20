@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.0](https://github.com/daniosoriov/release-please-example/compare/v1.0.2...v1.1.0) (2023-12-19)
+
+
+### Features
+
+* **docs:** the README.md contains more information about the actions to take for a release ([9c06965](https://github.com/daniosoriov/release-please-example/commit/9c06965fc8d5314619f6e5c95fbb1773fa256f66))
+* **file:** New file `testing.txt` added for testing purposes ([4c5001e](https://github.com/daniosoriov/release-please-example/commit/4c5001e69cef97f83a81bf5745ee3e8415181d78))
+
 ## [1.0.2](https://github.com/daniosoriov/release-please-example/compare/v1.0.1...v1.0.2) (2023-12-19)
 
 
