@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/daniosoriov/release-please-example/compare/v1.1.0...v1.2.0) (2023-12-20)
+
+
+### Features
+
+* **file:** Changing `release-please.yml` to use the `release-type` as `node` ([6d12978](https://github.com/daniosoriov/release-please-example/commit/6d129782bd3577a396fae3e135e06c416895160c))
+
 ## [1.1.0](https://github.com/daniosoriov/release-please-example/compare/v1.0.2...v1.1.0) (2023-12-19)
 
 
