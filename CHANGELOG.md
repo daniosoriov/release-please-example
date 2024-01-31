@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/daniosoriov/release-please-example/compare/v1.3.0...v1.4.0) (2024-01-31)
+
+
+### Features
+
+* adding a feat and extra text without feat or fix under it ([4a7fbf4](https://github.com/daniosoriov/release-please-example/commit/4a7fbf43b7ebfdcafc6c863d9c579c7c3080eb2f))
+
 ## [1.3.0](https://github.com/daniosoriov/release-please-example/compare/v1.2.0...v1.3.0) (2024-01-31)
 
 
