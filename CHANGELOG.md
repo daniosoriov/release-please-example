@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/daniosoriov/release-please-example/compare/v1.2.0...v1.3.0) (2024-01-31)
+
+
+### Features
+
+* adding this feat after two commits without feat or fix ([6bc2854](https://github.com/daniosoriov/release-please-example/commit/6bc28541b754654378c621376616e507f670fb59))
+
 ## [1.2.0](https://github.com/daniosoriov/release-please-example/compare/v1.1.0...v1.2.0) (2023-12-20)
 
 
