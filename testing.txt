@@ -1,3 +1,4 @@
 The idea is to use this file to test anything about releases.
 We can write anything here and make commits to test the release process.
 Small test to commit
+Yet another commit
