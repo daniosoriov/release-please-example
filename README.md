@@ -23,6 +23,12 @@ Make file changes to any files to make a test.
 Then, commit and push them to the `master` branch. 
 Be sure to follow the [Conventional Commits messages](https://www.conventionalcommits.org/) format.
 
+#### Commit message example
+
+```bash
+git commit -m "docs: changing the README.md to include a new section"
+```
+
 ### Creating a release
 
 The GitHub action will automatically create a pull request with the release notes.
