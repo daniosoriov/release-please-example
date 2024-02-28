@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/daniosoriov/release-please-example/compare/v1.4.0...v1.5.0) (2024-02-28)
+
+
+### Features
+
+* new text added ([b4075e8](https://github.com/daniosoriov/release-please-example/commit/b4075e854e5b5922b9ee7c01d58ffc34afe821d8))
+
 ## [1.4.0](https://github.com/daniosoriov/release-please-example/compare/v1.3.0...v1.4.0) (2024-01-31)
 
 
