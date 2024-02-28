@@ -4,3 +4,5 @@ Small test to commit
 Yet another commit
 The last two commits didn't produce a release, let's try adding a "feat" commit
 Now I want to add a commit message that contains a feat, but also extra text on another line
+
+this is the extra text
