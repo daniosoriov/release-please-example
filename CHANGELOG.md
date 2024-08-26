@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.0.0](https://github.com/daniosoriov/release-please-example/compare/v1.4.0...v2.0.0) (2024-08-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* introduced a new API
+
+### Features
+
+* add a new experimental feature ([725e19c](https://github.com/daniosoriov/release-please-example/commit/725e19c8bbcfb9b58f357acee5f7270ef432ffd0))
+* new text added ([b4075e8](https://github.com/daniosoriov/release-please-example/commit/b4075e854e5b5922b9ee7c01d58ffc34afe821d8))
+
 ## [1.4.0](https://github.com/daniosoriov/release-please-example/compare/v1.3.0...v1.4.0) (2024-01-31)
 
 
